@@ -385,7 +385,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 781.0, 100.0, 581.0, 848.0 ],
+						"rect" : [ 781.0, 100.0, 0.0, 848.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
