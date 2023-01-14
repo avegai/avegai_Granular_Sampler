@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "s3",
+    "file": "media/RU_SR_96_plucked_hustle_Dmin.wav"
+  },
+  {
+    "id": "s2",
+    "file": "media/RU_SR_93_bass_sinister_Fmin.wav"
+  },
+  {
+    "id": "s1",
+    "file": "media/RU_SR_88_drums_jungle_hop.wav"
+  }
+]
